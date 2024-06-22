@@ -1,0 +1,21 @@
+Customer
+- id
+- name
+- email
+- phone_number 
+- date_of_birth
+- place_of_work
+- city
+- country
+- created_date
+- updated_date
+- is_active
+
+Lead
+- id
+- channel_source
+- created_date
+- updated_date
+- is_returning
+- called_over_phone
+- social_media_source
